@@ -1,5 +1,13 @@
 [
   "webpage-html-export",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "callout-manager",
+  "callout-suggestions",
+  "oz-clear-unused-images",
+  "file-explorer-note-count",
+  "obsidian-latex-suite",
+  "url-into-selection",
+  "quick-explorer",
+  "recent-files-obsidian"
 ]
